@@ -3,7 +3,7 @@ function validate()
     var uname=document.getElementById('myname').value;
     var pass=document.getElementById('paswrd').value;
 
-    if(uname=="rocky" && pass=="simran")
+    if(uname=="danish" && pass=="margoob")
     {
        //location.assign("http://127.0.0.1:5500/");
        windows.alert("login succesfuly");
